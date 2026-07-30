@@ -29,5 +29,13 @@ conda activate qualityDrinks
 ### Step 2 - install the requirements
 ```bash
 pip install -r requirements.txt
+```
+
+```bash
+python app.py
+```
+
+```bash
+now open your local host: http://127.0.0.1:8080
 
 ```
