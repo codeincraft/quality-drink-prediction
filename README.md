@@ -74,7 +74,7 @@ now open your local host: http://127.0.0.1:8080
 
 # 3. Create ECR repo to store/save docker image
 ```bash
-- Save the URI: 136566696263.dkr.ecr.us-east-1.amazonaws.com/qualityDrinks
+- Save the URI: 398879776289.dkr.ecr.us-east-1.amazonaws.com/qualitydrinks
 ```
 
 ## 4. Create EC2 machine (Ubuntu)
