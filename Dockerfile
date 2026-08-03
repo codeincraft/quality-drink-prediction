@@ -6,7 +6,7 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends awscli \
 
 WORKDIR /app
 
-COPY requirements.txt .
+COPY requirements.txt setup.py README.md ./
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . /app
