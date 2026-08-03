@@ -117,3 +117,4 @@ ECR_REPOSITORY_NAME = simple-app
 ```
 ```bash
 git config --global user.name "codeincraft"
+```
