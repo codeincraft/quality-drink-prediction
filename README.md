@@ -19,7 +19,7 @@
 ### How to run?
 # Steps:
 ```bash
-conda create -n qualityDrinks python=3.10 -y
+conda create -n qualityDrinks python=3.11.15 -y
 ...
 
 ```bash
